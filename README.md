@@ -1,2 +1,2 @@
-# devoppsbuddy
+# devopsbuddy
 Startup web skeleton
